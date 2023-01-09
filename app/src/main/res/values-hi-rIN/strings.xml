@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">practical_4</string>
+    <string name="selected_language">हिन्दी</string>
+    <string name="msg_learning">सभी को नमस्कार! मैं फेनिल हूं और मेरी आईडी 20IT143 है।</string>
+
+</resources>

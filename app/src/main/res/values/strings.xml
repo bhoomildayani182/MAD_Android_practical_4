@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">practical_4</string>
+    <string name="selected_language">English</string>
+    <string name="msg_welcome" translatable="false">Welcome to Dashboard</string>
+    <string name="label_btn_english" translatable="false">Open Next Activity in English</string>
+    <string name="label_btn_hindi" translatable="false">Open Next Activity in Hindi</string>
+    <string name="msg_learning">Hello Everyone! myself Fenil and my ID is 20IT143.</string>
+</resources>
